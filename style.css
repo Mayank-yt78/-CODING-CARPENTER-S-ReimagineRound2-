@@ -896,6 +896,17 @@ body {
   flex-direction: column;
   gap: 1vw;
 }
+.p8-img2 img{
+  height: 30px;
+  width: 30px;
+  border-radius: 10px;
+  padding: 3px;
+}
+.p8-img2 img:hover {
+  transform: scale(1.5); /* Increases size by 10% instead of 2000% */
+  transition: transform 0.3s ease;
+  background-color: rgb(189, 95, 95);
+}
 .p8-mail img {
   height: 30px;
   width: 30px;
