@@ -409,7 +409,7 @@ display: none;
     margin-left: -5vh;
   }
 }
-@media only screen and (max-width:355px) {
+@media only screen and (max-width:450px) {
   
   .p8-img{
     height: 2vh;
