@@ -420,7 +420,69 @@ display: none;
   }
   .page5 img {
     width: 80%;
+    height: 65vw;
     margin-right: 30vw;
 
   }
+  .no p{
+    font-size: -1vw;
+    margin-right: 15vw;
+  }
+  .page6{
+    gap: 1vw;
+    padding-right: 10vw;
+  }
+  .p6-content img{
+    margin-top: -10vw;
+  }
+  .p6-content h6{
+    margin-right: 35vw;
+  }
+  .swiper-slide{
+    height: 70%;
+  }
+  .p3-btn{
+    font-size: 10px;
+  }
+  .p3-para{
+    font-size: 10px;
+    line-height: 12px;
+  }
+  .p2-box2{
+    margin-bottom: 4vw;
+    font-size: 10px;
+  }
+  .p2-text2{
+   font-weight: bold;
+   font-size: 10px;
+   text-decoration: underline;
+  }
+.page-body-right{
+  display: none;
+}
+.pbody-left{
+  display: block;
+}
+.pbody-left p{
+  width: 90vw;
+  font-size: 6vw;
+  font-weight: 400;
+}
+.p2-bottle{
+  height: 35vh;
+}
+.sld{
+  padding-left: 20vw;
+}
+.p7-sec2{
+  margin-left: 22vw;
+  width: 100vw;
+}
+.p7-sec2-content .p7-p{
+  width: 50vw;
+  font-size: 15px;
+}
+.p7-sec2-content button{
+  width: 50vw;
+}
 }
