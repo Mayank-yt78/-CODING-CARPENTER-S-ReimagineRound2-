@@ -408,6 +408,9 @@ display: none;
   .loader .content2{
     margin-left: -5vh;
   }
+    .p6-img {
+  transform: rotate(-180deg);
+}
 }
 @media only screen and (max-width:450px) {
   
@@ -506,4 +509,7 @@ display: none;
   flex-direction: column;
   gap: 6vw;
  }
+  .p6-img {
+  transform: rotate(-180deg);
+}
 }
