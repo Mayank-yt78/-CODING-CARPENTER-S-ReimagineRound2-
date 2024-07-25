@@ -93,7 +93,7 @@ function loader() {
     stagger: 0.3,
   },"abc");
 }
-// loader();
+ loader();
 
 
 
