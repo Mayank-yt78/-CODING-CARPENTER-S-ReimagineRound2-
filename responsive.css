@@ -409,3 +409,18 @@ display: none;
     margin-left: -5vh;
   }
 }
+@media only screen and (max-width:340px) {
+  
+  .p8-img{
+    height: 2vh;
+    margin-right: 18vw;
+  }
+  .p6-content button{
+    margin-left: -4vw;
+  }
+  .page5 img {
+    width: 80%;
+    margin-right: 30vw;
+
+  }
+}
